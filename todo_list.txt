@@ -1,0 +1,6 @@
+1. Create brach dev
+2. Make 2 commits
+3. Switch to brach main
+4. Create branch web
+5. 2 commits again
+6. Switch to main
